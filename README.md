@@ -10,11 +10,11 @@
 3. [create_a_working_folder](tool/02_create_a_working_folder/00_README.md)
 
 ## 使い方
-＜batファイルの個別の使い方＞
-「tool」フォルダの直下に学習用に作成した各種batファイルが格納されたフォルダがあります。
+### ＜batファイルの個別の使い方＞
+「tool」フォルダの直下に学習用に作成した各種batファイルが格納されたフォルダがあります。<br>
 各種「bat」の使い方は、同じ階層にある「README.md」を御覧下さい。
 
-＜GitHubActionの使い方＞
+### ＜GitHubActionの使い方＞
 現在のGitHubページ上部の「Actions」を選択して、任意のアクションコマンドをクリックして実行してください。
 
 ## 関連リンク
