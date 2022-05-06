@@ -1,6 +1,6 @@
 # 内容
 # GitHubActionでHogeHoge Worldをログで出力するDemo用のコード
-name: Hello World
+name: HogeHoge World
 
 # 呼び出しタイミング.
 # ・手動で呼び出す.
