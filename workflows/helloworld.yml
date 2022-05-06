@@ -1,0 +1,17 @@
+# 内容
+# GitHubActionでHello Worldをログで出力するDemo用のコード
+name: Hello World
+
+# 呼び出しタイミング.
+# ・手動で呼び出す.
+on:
+  workflow_dispatch:
+
+# ジョブ内容.
+#・実行OSを「ubuntu」とする.
+#・画面出力コマンドで任意の文字列を出力.
+jobs:
+  play_hello_world:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Hello World!"
